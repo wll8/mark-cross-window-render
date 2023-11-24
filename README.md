@@ -1,7 +1,11 @@
 # mark-cross-window-render
 
-纯js实现Web跨窗口渲染动画效果
+Pure js realizes web cross-window rendering animation effect
 
-Demo: https://markz-demo.github.io/mark-cross-window-render/
+Effect preview: https://wll8.github.io/mark-cross-window-render/index.html
+
+Warehouse source: https://github.com/markz-demo/mark-cross-window-render  
+Method to realize: https://juejin.cn/post/7304537142122266674  
 
 ![Alt text](preview.gif)
+
